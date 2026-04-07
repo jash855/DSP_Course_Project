@@ -134,6 +134,3 @@ The script will generate the output image `fire_detection.png` showing all pipel
 
 ---
 
-## License
-
-This project is for academic purposes. See LICENSE for details.
