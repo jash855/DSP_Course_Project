@@ -68,9 +68,8 @@ The texture check successfully eliminated the red wall false positive while pres
 ```
 fire-smoke-detection-dsp/
 |
-|-- fire_updated.py          # Full Python source
-|-- fire_detection.ipynb     # Jupyter Notebook version
-|-- fire_detection.png       # Output image (pipeline stages)
+|-- firedsp.ipynb         # Jupyter Notebook version
+|-- fire_detection.png    # Output image (pipeline stages)
 |-- README.md
 ```
 
